@@ -17,6 +17,11 @@ This repository contains **90 high-resolution photographs** taken in **mid-Novem
 - **Time:** July 23, 2025 — January 11, 2026.
 - **Source:** Co-organized by the National Museum of China and the Tretyakov Gallery.
 
+- **主题：** 俄罗斯现实主义绘画巨匠 伊利亚·列宾 (1844–1930)。
+- **地点：** 中国国家博物馆 南3、南4展厅。
+- **时间：** 2025年7月23日 — 2026年1月11日。
+- **来源：** 由中国国家博物馆与俄罗斯特列季亚科夫画廊联合主办。
+
 ## 📂 File Directory & Russian Titles / 目录结构与俄文原名对照
 
 The repository is organized into 3 main artwork folders. Below is the complete list of archived files with their original Russian titles.
@@ -138,22 +143,20 @@ The repository is organized into 3 main artwork folders. Below is the complete l
 
 ## ⚖️ License / 授权说明
 
-**CC BY-NC 4.0 (Attribution-NonCommercial 4.0 International)**
+**CC0 1.0 Universal (Public Domain Dedication)**
 
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
-本作品采用 **知识共享署名-非商业性使用 4.0 国际许可协议** 进行许可。
+I have dedicated this work to the public domain by waiving all of my rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+本人已将此作品贡献至公有领域，在法律允许的范围内，放弃所有版权及相关邻接权利。
 
-- **You are free to:** Share and Adapt the material.
-- **Under the following terms:**
-    - **NonCommercial:** You may not use the material for commercial purposes.
-    - **Attribution:** You must give appropriate credit.
-- **您是可以：** 分享、复制、改编本素材。
-- **惟须遵守下列条款：**
-    - **非商业性使用：** 您不得将本素材用于商业目的。
-    - **署名：** 您必须提供适当的署名。
+- **No Attribution Required:** You can copy, modify, and distribute the work without asking permission or giving credit.
+- **不须留名：** 您可以自由复制、修改、分发本素材，**无需征得同意，也无需署名**。
 
-> **Note:** The underlying artworks by Ilya Repin are in the **Public Domain**. The license above applies to the photographic reproductions created by the author of this repository.
-> **注：** 列宾的画作原作已进入**公有领域**。上述协议仅约束本仓库作者所拍摄的摄影作品。
+> **A Note on Commercial Use / 关于商业使用的恳请:**
+> While this license technically allows for any use, **my original intent is to support non-profit education and art appreciation**. I kindly ask that you **refrain from selling these photos directly for profit** (e.g., selling access to the files). Let's keep art accessible to everyone for free.
+> 虽然 CC0 协议允许任何用途，但**我的初衷是支持非盈利的艺术教育**。如果您能**尽量避免直接将这些照片用于商业牟利**（例如打包出售），我将感激不尽。让我们共同维护艺术的无偿传播。
+
+> **Note:** The underlying artworks by Ilya Repin (died 1930) are in the **Public Domain**.
+> **注：** 画作原作者列宾已于1930年逝世，其原作本身已属于公有领域。
 
 ---
 *Created by an art enthusiast & engineer. Beijing, 2026.*
