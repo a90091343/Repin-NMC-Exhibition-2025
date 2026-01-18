@@ -1,76 +1,161 @@
 # Reverie on the Neva: Repin Art Exhibition (Archive)
 # 涅瓦河畔的遐思——列宾艺术特展（影像存档）
 
-![License](https://img.shields.io/badge/license-CC0_1.0-green.svg) ![Status](https://img.shields.io/badge/Status-Completed-blue.svg) ![Count](https://img.shields.io/badge/Photos-90%2B-orange.svg)
+![License](https://img.shields.io/badge/license-CC_BY--NC_4.0-lightgrey.svg) ![Status](https://img.shields.io/badge/Status-Completed-blue.svg) ![Count](https://img.shields.io/badge/Photos-90-orange.svg)
 
-> **Disclaimer:** This is a personal non-profit photographic archive. The original artworks are in the Public Domain.
-> **声明：** 本项目为个人非盈利摄影存档，旨在公益传播艺术。画作原作已进入公有领域。
+> **Disclaimer:** This is a personal non-profit photographic archive for educational purposes only.
+> **声明：** 本项目为个人非盈利摄影存档，仅供公益学习与研究。
 
 ## 📖 Project Overview / 项目概览
 
-This repository contains **90+ high-resolution photographs** taken during the exhibition **"Reverie on the Neva: Repin Art Exhibition"**, held at the National Museum of China. It serves as a digital study resource for art students and enthusiasts who could not attend in person.
+This repository contains **90 high-resolution photographs** taken in **mid-November 2025** during the exhibition **"Reverie on the Neva: Repin Art Exhibition"**, held at the National Museum of China. It serves as a digital study resource for art students and enthusiasts.
 
-本项目收录了在中国国家博物馆举办的**“涅瓦河畔的遐思——列宾艺术特展”**现场拍摄的 **90余张高清画作及展板照片**。旨在建立一个数字化档案，供无法亲临现场的艺术爱好者和学生无偿查阅与研究。
+本项目收录了 **2025年11月中旬** 在中国国家博物馆举办的**“涅瓦河畔的遐思——列宾艺术特展”**现场拍摄的 **90张高清画作及展板照片**。旨在建立一个数字化档案，供无法亲临现场的艺术爱好者和学生无偿查阅与研究。
 
 - **Subject:** Ilya Repin (1844–1930), the master of Russian Realism.
 - **Location:** National Museum of China, Beijing (South Halls 3 & 4).
 - **Time:** July 23, 2025 — January 11, 2026.
 - **Source:** Co-organized by the National Museum of China and the Tretyakov Gallery.
 
-- **主题：** 俄罗斯现实主义绘画巨匠 伊利亚·列宾 (1844–1930)。
-- **地点：** 中国国家博物馆 南3、南4展厅。
-- **时间：** 2025年7月23日 — 2026年1月11日。
-- **来源：** 由中国国家博物馆与俄罗斯特列季亚科夫画廊联合主办。
+## 📂 File Directory & Russian Titles / 目录结构与俄文原名对照
 
-## ✨ Exhibition Highlights / 展览亮点
+The repository is organized into 3 main artwork folders. Below is the complete list of archived files with their original Russian titles.
+本仓库按以下分类整理。为方便学术检索，下表列出了所有文件对应的俄文原名。
 
-*(Based on the official exhibition introduction / 基于官方展览介绍)*
+### 1. `/Masterpieces` (代表作/叙事画)
+> **Note:** This folder contains 37 major oil paintings.
+> **注：** 本文件夹收录了 37 幅主要油画作品。
 
-### 1. Rare Masterpieces / 首次来华代表作
-This exhibition is the largest Repin retrospective in China to date. It features masterpieces that have rarely traveled abroad, including:
-本次展览是国内迄今规模最大、规格最高的列宾特展，汇聚了多幅首次来华的代表作：
+| Year | English Filename | Chinese Title | Original Russian Title |
+| :--- | :--- | :--- | :--- |
+| 1870 | Barge_Haulers_on_the_Volga | 伏尔加河上的纤夫 | Бурлаки на Волге |
+| 1870 | Shiryaevo_Ravine_on_the_Volga | 伏尔加河的希里亚耶夫沟壑 | Ширяев овраг на Волге |
+| 1870 | Barge_Haulers | 纤夫 | Бурлаки |
+| 1872 | Barge_Haulers_Wading | 纤夫涉水 | Бурлаки, идущие вброд |
+| 1875 | Jew_Praying | 祈祷的犹太人 | Еврей на молитве |
+| 1876 | Sadko | 萨特阔 | Садко |
+| 1878 | Procession_in_an_Oak_Forest | 橡树林中的宗教行列_圣像显现 | Крестный ход в дубовом лесу. Явленная икона |
+| 1878 | Secret_Meeting_of_Boyars | 波雅尔家的秘密报告 | Тайная сходка |
+| 1878 | Watching_the_Juggler | 观看杂耍表演 | В ожидании выхода царя (Смотрят на жонглера) |
+| 1878 | Zaporozhian_Cossacks_Study | 扎波罗热哥萨克 | Запорожцы (Этюд) |
+| 1879 | Beggar_with_a_Sack | 背包的乞丐 | Нищая с сумой |
+| 1879 | On_the_Border_Path | 在边界小径上 | По меже (В.Д. Поленов с женой) |
+| 1879 | Tsarevna_Sophia_Alekseyevna | 1698年的索菲娅公主 | Царевна Софья Алексеевна |
+| 1879-85| Before_Confession | 忏悔之前 | Перед исповедью |
+| 1880 | Reply_of_the_Zaporozhian_Cossacks | 扎波罗热哥萨克给土耳其苏丹回信 | Запорожцы пишут письмо турецкому султану |
+| 1880 | Svyatogorsk_Monastery | 北顿涅茨河畔的斯维亚托戈尔斯基圣母升天修道院 | Святогорский монастырь |
+| 1881-83| Religious_Procession_in_Kursk | 库尔斯克省的宗教行列 | Крестный ход в Курской губернии |
+| 1881 | Vechornitsy_Evening_Party | 晚会 | Вечорниці |
+| 1882 | Rest | 歇息 | Отдых |
+| 1884-88| Unexpected_Return | 意外归来 | Не ждали |
+| 1887 | Leo_Tolstoy_Ploughing | 列夫_托尔斯泰在耕地 | Л.Н. Толстой на пашне |
+| 1889 | Stasovs_Dacha_at_Pargolovo | 斯塔索夫在帕尔戈洛沃附近斯塔罗日洛夫卡村的乡间别墅 | На даче (В.В. Стасов в Парголово) |
+| 1890s| Alexander_III_at_Exhibition | 观展中的亚历山大三世 | Александр III на выставке |
+| 1890s| Festive_Moment | 庆典时分 | Торжественный момент |
+| 1891 | Playing_Chess | 下国际象棋 | Игра в шахматы |
+| 1892 | Arrest_of_a_Propagandist | 宣传者被捕 | Арест пропагандиста |
+| 1894 | Wedding_of_Nicholas_II | 尼古拉二世与亚历山德拉_费奥多罗芙娜的婚礼 | Венчание Николая II и Александры Федоровны |
+| 1897 | Duel | 决斗 | Дуэль |
+| 1897 | Lady_in_Pink_Dress | 穿粉色连衣裙的女子肖像 | Дама в розовом |
+| 1897-00| Falconry_Old_and_New | 猎鹰狩猎_旧与新 | Царская охота (Соколиная охота) |
+| 1900 | In_the_Sun | 阳光下 | На солнце |
+| 1900 | Laughing_Rider | 欢笑的骑马人 | Смеющаяся всадница |
+| 1903 | What_Freedom | 多么自由 | Какой простор! |
+| 1903 | **What_Freedom_Detail** | **多么自由_局部 (特写)** | **Какой простор! (Фрагмент)** |
+| 1905 | Playing_Piano | 弹钢琴 | Игра на рояле |
+| 1912 | Moscow_Besieged_1812 | 1812年被围困的莫斯科 | Москва в 1812 году |
+| 1913 | Wounded_Man | 受伤的人 | Раненый |
+| 1917 | In_Kazan_Cathedral_1 | 在喀山大教堂01 | В Казанском соборе (1) |
+| 1917 | In_Kazan_Cathedral_2 | 在喀山大教堂02 | В Казанском соборе (2) |
 
-- **"Religious Procession in Kursk Province"** (*《库尔斯克省的宗教行列》*) - A monumental work revealing the destiny of the Russian people.
-- **"Sophia Alekseyevna"** (*《1698年的索菲娅公主》*)
-- **"Unexpected Return"** (*《意外归来》*)
-- **"Sadko"** (*《萨特阔》*)
+### 2. `/Portraits` (人物肖像)
+> **Note:** This folder contains 42 portraits of cultural figures, friends, and family.
+> **注：** 本文件夹收录了 42 幅人物肖像。
 
-### 2. Repin's Circle / 列宾的“朋友圈”
-Repin attracted the most important figures of his time. The exhibition showcases portraits of his friends, revealing the resonance between painting, literature, and music:
-列宾吸引了当时最重要的文化人物。展览通过他创作的肖像画，带您走进大师的“朋友圈”，见证绘画与文学、音乐的共振：
+| Year | Subject (English) | Subject (Chinese) | Subject (Original Russian) |
+| :--- | :--- | :--- | :--- |
+| 1867 | Vasily Repin | 瓦西里_叶菲莫维奇_列宾肖像 (父亲) | Василий Ефимович Репин |
+| 1870s| Old Woman | 老妇人肖像 | Старушка |
+| 1873 | Vladimir Stasov | 弗拉基米尔_瓦西里耶维奇_斯塔索夫肖像 | В.В. Стасов |
+| 1874 | Ivan Turgenev | 伊凡_谢尔盖耶维奇_屠格涅夫肖像 | И.С. Тургенев |
+| 1874 | Vera Repina (Child) | 维拉_伊里尼奇娜_列宾娜童年肖像 (女儿) | Вера Репина в детстве |
+| 1877 | Man with Evil Eye | 眼神邪恶的人 | Мужик с дурным глазом |
+| 1877 | The Archdeacon | 助祭长 | Протодиакон |
+| 1878 | Self Portrait (1) | 自画像01 | Автопортрет |
+| 1878 | The Pilgrim | 虔诚的女朝圣者 | Богомолка |
+| 1878 | Valentina Serova | 瓦莲京娜_谢苗诺娃_谢罗娃肖像 | Валентина Серова |
+| 1879 | Emilia Prakhova & Rafail Levitsky | 艾米莉亚_普拉霍娃和拉斐尔_列维茨基肖像 | Эмилия Прахова и Рафаил Левицкий |
+| 1879 | Repin's Mother | 列宾之母塔季扬娜_列宾娜肖像 | Портрет матери (Т.С. Репиной) |
+| 1880 | Cossack Tarnovsky | 哥萨克瓦西里_瓦西里耶维奇_塔尔诺夫斯基肖像 | Казак (В.В. Тарновский) |
+| 1881 | Actress Strepetova | 女演员斯特列佩托娃饰演的伊丽莎维塔肖像 | П.А. Стрепетова в роли Лизаветы |
+| 1881 | Nikolay Pirogov | 尼古拉_伊凡诺维奇_皮罗戈夫肖像 | Н.И. Пирогов |
+| 1881 | Peter Yakub | 彼得_雅库布肖像 | Петр Якуб |
+| 1881 | Yulia Yakub | 尤利娅_雅库布肖像 | Юлия Якуб |
+| 1881-82| Yefim Ivanov | 米亚斯尼茨街的叶菲姆_伊凡诺夫 | Ефим Иванов |
+| 1882 | Afanasy Fet | 阿法纳西_阿法纳西耶维奇_费特肖像 | А.А. Фет |
+| 1882 | Ivan Kramskoy | 伊凡_尼古拉耶维奇_克拉姆斯科依肖像 | И.Н. Крамской |
+| 1883 | Pavel Tretyakov | 帕维尔_米哈伊洛维奇_特列季亚科夫肖像 | П.М. Третьяков |
+| 1884 | Artist Pozhitov | 艺术家德米特里_米哈伊洛维奇_博瓷托夫肖像 | Художник Пожитов |
+| 1885 | Mendeleev | 身着爱丁堡大学教授袍的化学家德米特里_门捷列夫肖像 | Д.И. Менделеев |
+| 1887 | Glinka Composing | 创作歌剧_鲁斯兰与柳德米拉_时的格林卡 | М.И. Глинка за сочинением |
+| 1887 | Leo Tolstoy | 列夫_托尔斯泰肖像 | Л.Н. Толстой |
+| 1887 | Self Portrait (2) | 自画像02 | Автопортрет |
+| 1887 | Sophie Menter | 索菲娅_门特尔肖像 | Софья Ментер |
+| 1888 | Cossack Oleshko | 哥萨克瓦西里_马尔科维奇_奥列什科肖像 | Казак Василий Олешко |
+| 1888 | Surgeon Pavlov | 手术室中的外科医生叶夫根尼_巴甫洛夫 | Хирург Е.В. Павлов |
+| 1889 | Baroness Ikskul | 瓦尔瓦拉_伊克斯库尔_冯_希尔登班德男爵夫人肖像 | Баронесса В.И. Икскуль фон Гильденбандт |
+| 1890 | Cesar Cui | 凯撒_安东塔维奇_居伊肖像 | Цезарь Кюи |
+| 1891 | Eleonora Duse | 意大利女演员埃莱奥诺拉_杜丝肖像 | Элеонора Дузе |
+| 1891 | Grand Duke Konstantin | 康斯坦丁_康斯坦丁诺维奇大公肖像 | Великий князь Константин Константинович |
+| 1891 | K. Rydzevsky | 康斯坦丁_尼古拉耶维奇_雷德泽夫斯基肖像 | К.Н. Рыдзевский |
+| 1891 | Nadezhda Ogaryova | 娜杰日达_奥加廖娃肖像 | Надежда Огарева |
+| 1891 | Tolstoy Reading | 在沙发上阅读的列夫_托尔斯泰 | Л.Н. Толстой за чтением |
+| 1899 | Nadezhda Repina | 娜杰日达_伊里尼奇娜_列宾娜肖像 (女儿) | Надежда Репина |
+| 1903 | Goremykin & Gerard | 伊凡_高列梅金与尼古拉_盖拉尔德肖像 | И.Л. Горемыкин и Н.Н. Герард |
+| 1903 | Sergei Witte | 谢尔盖_维特肖像 | С.Ю. Витте |
+| 1904 | Leonid Andreyev | 列昂尼德_尼古拉耶维奇_安德烈耶夫肖像 | Леонид Андреев |
+| 1909 | Self Portrait (3) | 自画像03 | Автопортрет |
+| 1910 | Natalia Nordman | 纳塔利娅_鲍里索芙娜_诺尔德曼肖像 | Н.Б. Нордман-Северова |
 
-- **"Portrait of Leo Tolstoy"** (*《列夫·托尔斯泰肖像》*) - Considered one of the finest portraits of the literary giant.
-- **"Portrait of Pavel Tretyakov"** (*《帕维尔·米哈伊洛维奇·特列季亚科夫肖像》*)
+### 3. `/Sketches` (手稿与习作)
+> **Note:** This folder contains 11 preliminary studies and sketches.
+> **注：** 本文件夹收录了 11 幅创作手稿与习作。
 
-### 3. The Creative Process / 创作演变
-**Special Feature:** The archive includes photos of 8 creative groups, revealing the process from sketches to the final masterpiece.
-**特别收录：** 本存档包含8个重要作品的创作群组照片，揭示了从速写到巨制落成的全过程。
+| Year | English Filename | Chinese Title | Original Russian Title |
+| :--- | :--- | :--- | :--- |
+| 1870 | Barge_Haulers_Studies | 纤夫拉着纤绳_驳船运输者的头像_两个坐着的女人和一只鸡 | Бурлаки на Волге (Эскиз) |
+| 1871 | Head_of_Kalmyk | 卡尔梅克人的头像 | Голова калмыка |
+| 1878 | Weapons_Studies | 带鞘马刀_带鞘马刀刀柄_马刀部件_长矛_矛头_兵器部件 | Этюды оружия (Сабля, копье) |
+| 1880 | Cossack_Head_Rifle | 哥萨克头像_步枪_马具部件 | Голова казака и ружье |
+| 1880 | Sketch_Ukrainian_Peasants | 两名乌克兰农妇与背身而坐的年轻男子速写 | Украинские крестьянки и парубок |
+| 1880s| Sitting_Cossack_Sketch | 哥萨克坐像速写 | Сидящий казак (Набросок) |
+| 1881 | The_Hunchback_1 | 驼背者01 | Горбун (Этюд 1) |
+| 1881 | The_Hunchback_2 | 驼背者02 | Горбун (Этюд 2) |
+| 1883-84| Male_Figure_Studies | 两幅全身素描与同一男性半身像 | Этюды мужской фигуры |
+| 1888-90| Cossacks_Studies_Scribe | 戴帽子的扎波罗热哥萨克_抄写员_裸露至腰部的扎波罗热哥萨克_男性侧影_持纸张的手 | Запорожцы (Этюды к картине) |
+| 1903 | What_Freedom_Detail | 多么自由_局部 | Какой простор! (Фрагмент) |
 
-- **"Barge Haulers on the Volga" (Group)**: Includes sketches, scene studies, and oil drafts.
-- **《伏尔加河上的纤夫》创作群组**：含纤夫肖像速写、场景素描及油画小稿等，直观呈现杰作诞生历程。
+### 4. General Info
+- `2025_NMC_Exhibition_Intro_Text_国博_列宾特展具体介绍.HEIC`: Official exhibition introduction text panel.
 
-## 📂 File Structure / 文件结构
+## ⚖️ License / 授权说明
 
-The repository is organized into folders for easy navigation:
-本仓库按以下分类整理照片，方便检索：
+**CC BY-NC 4.0 (Attribution-NonCommercial 4.0 International)**
 
-- `/Masterpieces` (代表作): Major oil paintings.
-- `/Portraits` (人物肖像): Portraits of cultural figures and friends.
-- `/Sketches` (手稿与习作): Drawings, sketches, and preliminary studies.
-- `/Exhibition_Info` (展览信息): Photos of gallery texts and introductions.
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+本作品采用 **知识共享署名-非商业性使用 4.0 国际许可协议** 进行许可。
 
-## ⚖️ Copyright & License / 版权与授权
+- **You are free to:** Share and Adapt the material.
+- **Under the following terms:**
+    - **NonCommercial:** You may not use the material for commercial purposes.
+    - **Attribution:** You must give appropriate credit.
+- **您是可以：** 分享、复制、改编本素材。
+- **惟须遵守下列条款：**
+    - **非商业性使用：** 您不得将本素材用于商业目的。
+    - **署名：** 您必须提供适当的署名。
 
-**CC0 1.0 Universal (Public Domain Dedication)**
-
-To the extent possible under law, I have waived all copyright and related or neighboring rights to these photographs.
-在法律允许的范围内，本人已放弃对这些摄影作品的所有版权及相关邻接权利。
-
-- **You can:** Copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
-- **您可以：** 复制、修改、分发或用于商业用途，完全无需申请许可。
-
-> **Note:** The text references regarding the exhibition description are credited to the National Museum of China.
-> **注：** 展览介绍文字的版权归中国国家博物馆所有。
+> **Note:** The underlying artworks by Ilya Repin are in the **Public Domain**. The license above applies to the photographic reproductions created by the author of this repository.
+> **注：** 列宾的画作原作已进入**公有领域**。上述协议仅约束本仓库作者所拍摄的摄影作品。
 
 ---
-*Created by an art enthusiast & engineer. 2026.*
+*Created by an art enthusiast & engineer. Beijing, 2026.*
