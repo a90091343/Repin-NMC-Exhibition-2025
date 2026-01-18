@@ -60,8 +60,7 @@ The repository is organized into 3 main artwork folders. Below is the complete l
 | 1897-00| Falconry_Old_and_New | 猎鹰狩猎_旧与新 | Царская охота (Соколиная охота) |
 | 1900 | In_the_Sun | 阳光下 | На солнце |
 | 1900 | Laughing_Rider | 欢笑的骑马人 | Смеющаяся всадница |
-| 1903 | What_Freedom | 多么自由 | Какой простор! |
-| 1903 | **What_Freedom_Detail** | **多么自由_局部 (特写)** | **Какой простор! (Фрагмент)** |
+| 1903 | What_Freedom | 多么自由（包含局部特写拍摄） | Какой простор! |
 | 1905 | Playing_Piano | 弹钢琴 | Игра на рояле |
 | 1912 | Moscow_Besieged_1812 | 1812年被围困的莫斯科 | Москва в 1812 году |
 | 1913 | Wounded_Man | 受伤的人 | Раненый |
@@ -69,8 +68,8 @@ The repository is organized into 3 main artwork folders. Below is the complete l
 | 1917 | In_Kazan_Cathedral_2 | 在喀山大教堂02 | В Казанском соборе (2) |
 
 ### 2. `/Portraits` (人物肖像)
-> **Note:** This folder contains 42 portraits of cultural figures, friends, and family.
-> **注：** 本文件夹收录了 42 幅人物肖像。
+> **Note:** This folder contains 43 portraits of cultural figures, friends, and family.
+> **注：** 本文件夹收录了 43 幅人物肖像。
 
 | Year | Subject (English) | Subject (Chinese) | Subject (Original Russian) |
 | :--- | :--- | :--- | :--- |
@@ -118,8 +117,8 @@ The repository is organized into 3 main artwork folders. Below is the complete l
 | 1910 | Natalia Nordman | 纳塔利娅_鲍里索芙娜_诺尔德曼肖像 | Н.Б. Нордман-Северова |
 
 ### 3. `/Sketches` (手稿与习作)
-> **Note:** This folder contains 11 preliminary studies and sketches.
-> **注：** 本文件夹收录了 11 幅创作手稿与习作。
+> **Note:** This folder contains 10 preliminary studies and sketches.
+> **注：** 本文件夹收录了 10 幅创作手稿与习作。
 
 | Year | English Filename | Chinese Title | Original Russian Title |
 | :--- | :--- | :--- | :--- |
@@ -133,7 +132,6 @@ The repository is organized into 3 main artwork folders. Below is the complete l
 | 1881 | The_Hunchback_2 | 驼背者02 | Горбун (Этюд 2) |
 | 1883-84| Male_Figure_Studies | 两幅全身素描与同一男性半身像 | Этюды мужской фигуры |
 | 1888-90| Cossacks_Studies_Scribe | 戴帽子的扎波罗热哥萨克_抄写员_裸露至腰部的扎波罗热哥萨克_男性侧影_持纸张的手 | Запорожцы (Этюды к картине) |
-| 1903 | What_Freedom_Detail | 多么自由_局部 | Какой простор! (Фрагмент) |
 
 ### 4. General Info
 - `2025_NMC_Exhibition_Intro_Text_国博_列宾特展具体介绍.HEIC`: Official exhibition introduction text panel.
